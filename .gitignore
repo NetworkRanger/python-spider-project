@@ -105,3 +105,6 @@ venv.bak/
 
 # Editors and IDEs
 .idea
+
+# cache
+.DS_Store
